@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RotRot-pi 
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development using Flutter
 - 🌱 I’m currently learning Dart & Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
