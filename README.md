@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @RotRot-pi 
-- 👀 I’m interested in software development and Flutter
-- 🌱 I’m currently learning Dart & Flutter
-- ✨ I have used python for machine leanrning ,scrapping with scrappy and Django
-- 💞️ I’m looking to collaborate on flutter realted projects
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ramy
+- 👀 I’m interested in Flutter ,Mobile application development & IT in general
+- 🌱 I’m currently learning Project management to manage my team project
+- ✨ I have used Python for ML ,scrapping with scrappy and Django
+- 💫 I have used PHP to build the backend of my ecommerce app
+- 💞️ I’m looking to collaborate on Flutter realted projects
+- 📫 You can reach me through my [![Linkedin](https://www.linkedin.com/in/ramins1)]
 
 <!---
 RotRot-pi/RotRot-pi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
