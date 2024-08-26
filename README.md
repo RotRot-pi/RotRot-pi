@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Ramy
+# Rami - Flutter Developer
+
+👋 Hello! I'm a passionate Flutter developer with a strong interest in crafting beautiful and performant cross-platform mobile applications.
+
+✨ **My Focus:** Building high-quality mobile experiences using Flutter and Dart.
+
+🚀 **Featured Project:** ZingoShop - A Comprehensive E-commerce App [Link to Repo](https://github.com/RotRot-pi/ZingoShop?tab=readme-ov-file)
+
+<!---➡️ **Check out ZingoShop to see my skills in action:**
+* User-friendly interface for browsing and purchasing products.
+* Efficient order management for delivery personnel.
+* Powerful admin dashboard for managing the entire application.--->
+
+🌱 **Always Learning:** I'm continuously expanding my knowledge and exploring new technologies in the mobile development space.
+
+💡 **Beyond Flutter:** While my primary focus is Flutter, I've also dabbled in Python, PHP, and backend development.
+
+🤝 **Let's Connect!** [LinkedIn](https://www.linkedin.com/in/ramins1)
+
+<!--- - 👋 Hi, I’m Ramy
 - 👀 I’m interested in Flutter ,Mobile application development & IT in general
 - 🌱 I’m currently learning Project management to manage my team project
 - ✨ I have used Python for ML ,scrapping with scrappy and Django
 - 💫 I have used PHP to build the backend of my ecommerce app
 - 💞️ I’m looking to collaborate on Flutter realted projects
-- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/ramins1)
+- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/ramins1)--->
 
 <!---
 RotRot-pi/RotRot-pi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
