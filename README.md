@@ -16,7 +16,9 @@
 💡 **Beyond Flutter:** While my primary focus is Flutter, I've also dabbled in Python, PHP, and backend development.
 
 🤝 **Let's Connect!** [LinkedIn](https://www.linkedin.com/in/ramins1)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RotRot-pi)](https://github.com/RotRot-pi/github-readme-stats)
+
+<!---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RotRot-pi)](https://github.com/RotRot-pi/github-readme-stats)--->
 
 <!--- - 👋 Hi, I’m Ramy
 - 👀 I’m interested in Flutter ,Mobile application development & IT in general
