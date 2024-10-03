@@ -4,7 +4,9 @@
 
 ✨ **My Focus:** Building high-quality mobile experiences using Flutter and Dart.
 
-🚀 **Featured Project:** ZingoShop - A Comprehensive E-commerce App [Link to Repo](https://github.com/RotRot-pi/ZingoShop?tab=readme-ov-file)
+🚀 **Featured Projects:** 
+- ZingoShop - A Comprehensive E-commerce App [Link to Repo](https://github.com/RotRot-pi/ZingoShop?tab=readme-ov-file)
+- TrendScope - An app to visualize historical stock market data .[Link to Repo](https://github.com/RotRot-pi/TrendScope)
 
 <!---➡️ **Check out ZingoShop to see my skills in action:**
 * User-friendly interface for browsing and purchasing products.
