@@ -7,11 +7,13 @@
 🚀 **Featured Projects:** 
 - ZingoShop - A Comprehensive E-commerce App [Link to Repo](https://github.com/RotRot-pi/ZingoShop)
 - TrendScope - An app to visualize historical stock market data .[Link to Repo](https://github.com/RotRot-pi/TrendScope)
-
+- Flutter Google Maps Integrator - A Flutter desktop application designed to automate the initial setup and integration of the google_maps_flutter package into existing Flutter projects with a map screen example 😉 [Link to Repo](https://github.com/RotRot-pi/flutter_google_maps_integrator)
 <!---➡️ **Check out ZingoShop to see my skills in action:**
 * User-friendly interface for browsing and purchasing products.
 * Efficient order management for delivery personnel.
 * Powerful admin dashboard for managing the entire application.--->
+
+🎁 I also add some cool stuff here from time to time [Flutter Components](https://github.com/RotRot-pi/Flutter-Components).
 
 🌱 **Always Learning:** I'm continuously expanding my knowledge and exploring new technologies in the mobile development space.
 
